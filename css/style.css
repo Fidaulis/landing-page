@@ -81,5 +81,11 @@
     font-family: "Roboto";
     border-radius: 50px;
   }
+  .paragraphe {
+    font-family: "Roboto";
+    width: 595px;
+    margin-left: -135px;
+    font-size: 16px;
+  }
 }
 /*# sourceMappingURL=style.css.map */
