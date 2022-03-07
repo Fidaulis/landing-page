@@ -240,3 +240,18 @@ nav {
     }
   }
 }
+"editor.rulers": [],
+    "editor.semanticTokenColorCustomizations": null,
+    "[javascript]": {
+        "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "mblode.pretty-formatter"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
