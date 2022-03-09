@@ -1,0 +1,119 @@
+.navbar-nav a {
+  color: white;
+  font-size: 46px;
+  /*font-family: "Roboto";
+  font-weight: 200;*/
+}
+.navbar-nav li a {
+  display: inline-block;
+  margin: 0px 35px;
+  color: white;
+  padding: 15px;
+}
+.navbar-nav {
+  margin-top: 110px;
+}
+.banner {
+  background-image: url(../img/origine_maquette1.jpg);
+  min-height: 100vh;
+  background-size: 3556px 2000px;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
+.intro {
+  padding-top: 100px;
+}
+.content-title {
+  margin-left: -110px;
+  display: grid;
+  width: 615px;
+  grid-template-columns: 25% 50% 25%;
+  margin-top: 485px;
+  .title {
+    font-family: "Archivo Black", sans-serif;
+    transform: scale(1, 0.9);
+    margin-top: -25px;
+    text-align: center;
+    font-size: 99px;
+    color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+  }
+  .text-toujours,
+  .text-avance {
+    margin-top: 23px;
+    font-size: 24px;
+    font-family: "Roboto";
+  }
+}
+.origin {
+  font-family: "Archivo Black", sans-serif;
+  font-size: 340px;
+  margin-top: -17px;
+  font-weight: bold;
+  transform: scale(1, 0.7);
+  margin-left: -131px;
+  color: transparent;
+  line-height: 132px;
+  letter-spacing: -12px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
+.group {
+  font-family: "Archivo Black", sans-serif;
+  font-size: 385px;
+  margin-left: -127px;
+  font-weight: bold;
+  transform: scale(1, 0.7);
+  margin-top: -51px;
+  letter-spacing: -5px;
+  color: white;
+}
+.origin-group {
+  display: grid;
+  margin-top: 53px;
+  margin-left: -475px;
+  grid-template-rows: 23% 48% 11%;
+}
+.btn-group {
+  width: 1395px;
+  padding: 4px;
+  margin-left: -33px;
+  font-weight: bold;
+  background-color: white;
+  font-size: 42px;
+  font-family: "Roboto";
+  border-radius: 50px;
+}
+.partir {
+  width: 675px;
+  padding: 10px;
+  margin-left: -1600px;
+  background-color: white;
+  font-size: 46px;
+  font-weight: bold;
+  font-family: "Roboto";
+  border-radius: 50px;
+}
+.parler {
+  border: 2px solid white;
+  width: 675px;
+  padding: 15px;
+  margin-left: 640px;
+  font-size: 46px;
+  font-weight: bold;
+  font-family: "Roboto";
+  border-radius: 50px;
+  color: white;
+}
+.paragraphe {
+  font-family: "Roboto";
+  width: 1283px;
+  margin-left: -460px;
+  margin-top: 125px;
+  font-size: 35px;
+}
+.section-btn {
+  margin-top: 195px;
+}
